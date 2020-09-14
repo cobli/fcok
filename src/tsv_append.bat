@@ -1,1 +1,0 @@
-type *.tsv > all.txt
